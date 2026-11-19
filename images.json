@@ -1,0 +1,55 @@
+{
+  "_note": "Royalty-free (Pexels License) image pools. Upload the images/ folder and this file (as images.json) to the repo root.",
+  "version": 1,
+  "images": {
+    "HEALTH": [
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/health/1.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/health/2.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/health/3.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/health/4.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/health/5.jpg"
+    ],
+    "WEAPONS": [
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/weapons/1.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/weapons/2.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/weapons/3.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/weapons/4.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/weapons/5.jpg"
+    ],
+    "WANTED": [
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/wanted/1.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/wanted/2.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/wanted/3.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/wanted/4.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/wanted/5.jpg"
+    ],
+    "VEHICLES": [
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/vehicles/1.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/vehicles/2.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/vehicles/3.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/vehicles/4.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/vehicles/5.jpg"
+    ],
+    "MOVEMENT": [
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/movement/1.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/movement/2.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/movement/3.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/movement/4.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/movement/5.jpg"
+    ],
+    "WORLD": [
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/world/1.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/world/2.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/world/3.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/world/4.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/world/5.jpg"
+    ],
+    "MISC": [
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/misc/1.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/misc/2.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/misc/3.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/misc/4.jpg",
+      "https://raw.githubusercontent.com/wiki7845/gta6-cheat-codes/main/images/misc/5.jpg"
+    ]
+  }
+}
